@@ -1,0 +1,4 @@
+-  Hi, I’m @StrangeMix, a uni student new to programming. He/him.
+-  I’m currently learning Game Design and Development at University level. I'm learning coding using C#, programming, design and graphic art.
+-  I’m looking to collaborate on any coding projects or art projects.
+-  How to reach; through my discord, it's the same name.
